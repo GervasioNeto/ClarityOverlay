@@ -1,0 +1,15 @@
+## Interface: 16001
+## Title: ClarityOverlay
+## Notes: Alerta visual e sonoro quando o Clearcasting (Omen of Clarity) é ativado.
+## Notes-ptBR: Alerta visual e sonoro quando o Clearcasting (Omen of Clarity) é ativado.
+## Author: Seu Nome
+## Version: 0.1.0
+## IconTexture: Interface\Icons\Spell_Shadow_ManaBurn
+## SavedVariables: ClarityOverlayDB
+
+Core.lua
+Detect.lua
+Overlay.lua
+Commands.lua
+Options.lua
+Probe.lua

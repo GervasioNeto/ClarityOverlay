@@ -1,0 +1,20 @@
+# Python (cache do gerador de texturas em Tools/)
+__pycache__/
+*.pyc
+
+# Prévias geradas por: python Tools/generate_textures.py --preview <arquivo>.png
+previa*.png
+preview*.png
+
+# Pacotes .zip para distribuir o addon (gerados à parte)
+*.zip
+
+# Arquivos do sistema operacional
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
+*.swp
